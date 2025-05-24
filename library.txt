@@ -1,0 +1,9 @@
+[
+    {
+        "title": "",
+        "author": "",
+        "year": 0,
+        "genre": "",
+        "read": false
+    }
+]
